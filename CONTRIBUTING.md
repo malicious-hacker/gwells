@@ -60,7 +60,7 @@ git push origin -f
 
 ### Pull Requests
 
-When a feature is ready for testing please send a pull request to our current release branch.
+When a feature is ready for testing please send a pull request to our current release branch.  We generally try to prefix pull requests with the issue's Trello ticket number. e.g.: `[103] Add well search feature`
 
 ### Continuous Integration and Continuous Deployment
 
